@@ -1,3 +1,9 @@
+Sarah Price
+s198041
+Assesment 4- HashFunction
+HashFunction Documentation
+
+
 Description: create a solution that generates a color hash code according to what is put into the Main function
 
 File: HashFunction.h
